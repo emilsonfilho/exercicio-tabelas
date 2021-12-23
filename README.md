@@ -4,4 +4,6 @@
 
 - O site não passa de um exercício, então é claro que ele está *muito* simples, (não me julguem depois) isso é apenas a aplicação de um conhecimento que eu estou tendo nos meus estudos.
 
+- [Clique aqui](https://emilsonfilho.github.io/exercicio-tabelas/tabela.html) para ser redirecionado ao site no GitHub Pages
+
 ## Screenshots da tela 
