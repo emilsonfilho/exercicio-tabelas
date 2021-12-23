@@ -6,4 +6,14 @@
 
 - [Clique aqui](https://emilsonfilho.github.io/exercicio-tabelas/tabela.html) para ser redirecionado ao site no GitHub Pages
 
-## Screenshots da tela 
+## ♿ Screenshots da tela 
+![Screenshot](./docs/Screenshot_20211223-124802.jpg) 
+
+## 🎲 Tecnologias 
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" height="100"> 
+</div> 
+
+## 🍢 Made By
+<p align="center">Feito com ❤️ por <a href="https://github.com/emilsonfilho/">Emilson Filho</a></p>
