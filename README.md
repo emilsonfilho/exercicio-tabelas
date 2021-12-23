@@ -6,7 +6,7 @@
 
 - <a href="https://emilsonfilho.github.io/exercicio-tabelas/tabela.html" target="_blank">Clique aqui</a> para ser redirecionado ao site no GitHub Pages 
 
-## Blog e Detalhes 
+## 🕶️ Blog e Detalhes 
 Você poderá ver detalhes da construção desse projeto <a href="https://conversasetecnologia.blogspot.com/2021/12/exercicio-sobre-tabelas.html" target="_blank">Clicando Aqui</a>
 
 ## ♿ Screenshots da tela 
